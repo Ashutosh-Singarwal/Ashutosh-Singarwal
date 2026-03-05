@@ -1,3 +1,2 @@
 -  Hi, I’m @Ashutosh-Singarwal
--  I’m interested in AI and ML and cybersecurity 
--  I’m currently learning cybersecurity 
+ 
